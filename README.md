@@ -3,10 +3,7 @@
 Previously, I spent four years coding in Java, programming award-winning robots as the software lead of my [FIRST Robotics Team](https://www.github.com/FRCTeam3255). Now, I'm expanding my skills by employing different languages as I create personal projects. 
 
 ## I've Worked With 👩‍💻:
-[![Experience](https://skillicons.dev/icons?i=java,js,html,github,vscode,figma,ai,ps)](https://skillicons.dev)
-
-## Currently Learning 📚:
-[![Learning](https://skillicons.dev/icons?i=react,py)](https://skillicons.dev)
+[![Experience](https://skillicons.dev/icons?i=java,py,js,html,github,vscode,figma,ai,ps)](https://skillicons.dev)
 
 ## Ways to Connect with Me ✉:
 - Email me at **alicekuznetsov1@gmail.com**
