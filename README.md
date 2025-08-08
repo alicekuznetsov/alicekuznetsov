@@ -1,5 +1,5 @@
 # Hello 👋, I'm Alice!
-### I'm a freshman (class of 2029) studying Electrical Engineering and Computer Sciences at UC Berkeley! 
+### I'm a student studying Electrical Engineering and Computer Sciences at UC Berkeley! 
 Previously, I spent four years coding in Java, programming award-winning robots as the software lead of my [FIRST Robotics Team](https://www.github.com/FRCTeam3255). Now, I'm expanding my skills by employing different languages as I create personal projects. 
 
 ## I've Worked With 👩‍💻:
